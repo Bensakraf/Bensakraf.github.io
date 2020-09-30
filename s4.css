@@ -1,0 +1,26 @@
+body{
+	background-image: url(plan.jpeg);
+	background-attachment: fixed;
+}
+
+
+body{
+	color: yellow;
+}
+
+table{
+	background-color: white;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	color:black;
+}
+
+td
+{
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+	border-left: 2px solid black;
+}
